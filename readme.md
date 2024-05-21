@@ -1,4 +1,3 @@
-@@ -1,4 +1,4 @@
 ![MasterHead](https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp)
 <h1 align="center">Hi 👋, Suresh Kumar</h1>
 <h3 align="center">I am a recent graduate from Chaibasa Engineering College with hands-on experience in C, C++, and Java. My extensive knowledge and practical application of these languages empower me to develop robust, 
