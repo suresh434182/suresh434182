@@ -4,12 +4,13 @@
 <h3 align="center">I am a recent graduate from Chaibasa Engineering College with hands-on experience in C, C++, and Java. My extensive knowledge and practical application of these languages empower me to develop robust, 
 efficient solutions, embodying my dedication to addressing challenges with innovative coding..</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-- 👨‍💻 All of my projects are available at [Click here](https://suresh434182.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/suresh434182?tab=repositories">[Click here]</a>
+(https://suresh434182.github.io/)
 - 📫 How to reach me **suresh434182@gmail.com**	
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/suresh-kumar-307284190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preeti-sarkar-86945b18b/" height="30" width="40" /></a>
-<a href="https://leetcode.com/user9305xD/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pree-t" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suresh-kumar-307284190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://leetcode.com/user9305xD/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Suresh434182" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/suresh434182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hellopreeti0107/" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
